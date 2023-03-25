@@ -1,0 +1,6 @@
+1)tokenize  2)stopwords  3)ngram  4)stem  5)WSD
+nltk.tokenize always has to components main as word_tokenize and sent_tokenize
+nltk.corpus has stopwords function to get a ist of stopwords and string has a list of punctuations
+nlk.colloctions has multiple ngram functions like bigram, trigram ,quadgram etc
+nltk.stem has LancasterStemmer function for stemming
+nltk.corpus has wordnet function for meaning and context also nltk.wsd has lesk function for contextual meaning of word in the sentence
